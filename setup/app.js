@@ -1,6 +1,7 @@
 
 
 
+
 const printToDom =(divId, textToPrint) => {
     const selectedDiv = document.getElementById(divId)
     selectedDiv.innerHTML =textToPrint
@@ -48,3 +49,50 @@ const colorBuilder = (monkeyButts) => {
 const init = ()=>{
     colorBuilder();
 }
+
+'use strict';
+
+
+const simplePalette = [
+    {
+        color: 'beige',
+    },
+
+    {
+        color: 'salmon',
+    },
+
+    {
+        color: 'teal',
+    },
+
+    {
+        color: 'goldenrod',
+    
+    },
+
+    {
+        color: 'purple',
+    },
+
+    {
+        color: 'rust red',
+    },
+
+    {
+        color: 'chartreuse',
+    },
+
+    {
+        color: 'azure',
+    },
+
+    {
+        color: 'peach',    
+    },
+
+    {
+        color: 'aqua',
+    },
+]
+ master
