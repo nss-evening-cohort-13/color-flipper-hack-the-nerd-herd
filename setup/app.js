@@ -1,3 +1,4 @@
+ hex
 // #c9cba3 - #ffe1a8 - #e26d5c - #723d46 - #472d30
 // #484a47 - #5c6d70 - #a37774 - #e88873 - #e0ac9d
 "use strict";
@@ -49,3 +50,50 @@ const hexPalette = [
 
 
 
+
+'use strict';
+
+
+const simplePalette = [
+    {
+        color: 'beige',
+    },
+
+    {
+        color: 'salmon',
+    },
+
+    {
+        color: 'teal',
+    },
+
+    {
+        color: 'goldenrod',
+    
+    },
+
+    {
+        color: 'purple',
+    },
+
+    {
+        color: 'rust red',
+    },
+
+    {
+        color: 'chartreuse',
+    },
+
+    {
+        color: 'azure',
+    },
+
+    {
+        color: 'peach',    
+    },
+
+    {
+        color: 'aqua',
+    },
+]
+ master
